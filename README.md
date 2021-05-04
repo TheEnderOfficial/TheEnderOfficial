@@ -4,8 +4,8 @@
 
 <br>
 <a href="https://github.com/TheEnderOfficial">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PozitP&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PozitP&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheEnderOfficial&theme=cobalt" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheEnderOfficial&theme=cobaltt" />
 </a>      
 
 Ender@acer $ ~/ 
