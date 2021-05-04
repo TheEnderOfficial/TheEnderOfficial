@@ -1,6 +1,4 @@
-### Hey there, I'm Dmitriy!
-
-#### Languages
+### Hey there, I'm Dmitriy! 👋
 
 <br>
 <a href="https://github.com/TheEnderOfficial">
