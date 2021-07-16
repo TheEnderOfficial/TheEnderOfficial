@@ -1,4 +1,6 @@
 ## Hey there, I'm Dmitriy! 👋
+![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=TheEnderOficial&repo=Envoy-VC-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pozitp.code@gmail.com)](mailto:enderteamyt.official@gmail.com)
 
 #### Languages
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
