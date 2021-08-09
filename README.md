@@ -1,6 +1,7 @@
 ## Hey there, I'm Dmitriy! 👋
 ![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=TheEnderOficial&repo=Envoy-VC-visitors-badge&countColorcountColor&countColor=%237B1E7A)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pozitp.code@gmail.com)](mailto:enderteamyt.official@gmail.com)
+[![MAIL 1](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:enderteamyt.official@gmail.com)](mailto:enderteamyt.official@gmail.com)
+[![MAIL 2](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:enderofficial.ml@gmail.com)](mailto:enderofficial.ml@gmail.com)
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
