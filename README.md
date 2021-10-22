@@ -9,6 +9,9 @@
 [![MAIL 1](https://img.shields.io/badge/MAIL1-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:enderteamyt.official@gmail.com)](mailto:enderteamyt.official@gmail.com)
 [![MAIL 2](https://img.shields.io/badge/MAIL2-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:enderofficial.ml@gmail.com)](mailto:enderofficial.ml@gmail.com)
 #### Languages
+![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![TS](https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![EXPRESS](https://img.shields.io/badge/Express.JS-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
